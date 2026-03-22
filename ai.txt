@@ -1,0 +1,10 @@
+# ai.txt - AI Training Opt-Out Declaration
+# https://site.spawning.ai/spawning-ai-txt
+
+# Contxt does not permit the use of its content for AI/ML model training,
+# fine-tuning, or dataset construction of any kind.
+
+User-Agent: *
+Disallow: AI-Training
+Disallow: AI-Scraping
+Disallow: AI-Index
